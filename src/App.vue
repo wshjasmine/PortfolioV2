@@ -39,7 +39,7 @@
           I'm
           <a href="https://www.linkedin.com/in/jasmine-wang-a82a20264/" target="_blank"
             class="text-black hover:underline">
-            Jasmine,</a><br />a Year 3 Business Analytics Student.
+            Jasmine,</a><br />a Final Year Business Analytics Student.
         </h1>
       </div>
 
